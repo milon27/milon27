@@ -13,8 +13,9 @@
 - ⚡ Fun fact: ... -->
 
 
-Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) and Web(Node Js, React Js, Next Js) Developer - available for remote work. Find out more about me & feel free to connect with me here:
+Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) and Web(Node Js, React Js, Next Js) Developer - available for remote work.
 
+## 📫  How to reach me
 
 [![fiverr Badge](https://img.shields.io/badge/-milon27-1DBF73?style=flat-square&logo=fiverr&logoColor=white&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
 [![upwork Badge](https://img.shields.io/badge/-Jahidul-14A800?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~016439d0a1aaceb84d)](https://www.upwork.com/freelancers/~016439d0a1aaceb84d)
@@ -24,9 +25,9 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 [![Gmail Badge](https://img.shields.io/badge/-mdjahidulislammilon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdjahidulislammilon@gmail.com)](mailto:mdjahidulislammilon@gmail.com)
 [![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=humman&logoColor=white&link=https://milon27.web.app/)](https://milon27.web.app/)
 
-## ⚡ Technologies
+## ⚡ I’m currently working on
 
-### 💻 web development(full stack)
+### 💻 Web Development(full stack)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
@@ -56,6 +57,10 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+## 😄 Few Projects
+[![MessManger](https://img.shields.io/badge/-Mess%20Manager-FC5A55?style=flat-square&logo=humman&logoColor=white&link=https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)](https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=milon27&count_private=true&show_icons=true&include_all_commits=true)
 
