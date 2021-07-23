@@ -16,9 +16,9 @@
 
 Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) and Web(Node Js, React Js, Next Js) Developer - available for remote work.
 
->> ## 📫  How to reach me
+>> ### 📫  How to reach me
 
-[![fiverr Badge](https://img.shields.io/badge/-milon27-24292E?style=flat-square&logo=fiverr&logoColor=white&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
+[![fiverr Badge](https://img.shields.io/badge/-milon27-black?style=flat-square&logo=fiverr&logoColor=00FFAA&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
 [![upwork Badge](https://img.shields.io/badge/-Jahidul-14A800?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~016439d0a1aaceb84d)](https://www.upwork.com/freelancers/~016439d0a1aaceb84d)
 [![Linkedin Badge](https://img.shields.io/badge/-milon27-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milon27/)](https://www.linkedin.com/in/milon27/)
 [![facebook Badge](https://img.shields.io/badge/-im.milon27-0F92F3?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/im.milon27/)](https://www.facebook.com/im.milon27/)
@@ -26,7 +26,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 [![Gmail Badge](https://img.shields.io/badge/-mdjahidulislammilon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdjahidulislammilon@gmail.com)](mailto:mdjahidulislammilon@gmail.com)
 [![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=humman&logoColor=white&link=https://milon27.web.app/)](https://milon27.web.app/)
 
->> ## ⚡ I’m currently working on
+>> ### ⚡ I’m currently working on
 
 1. 💻 Web Development(full stack) <br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -57,10 +57,10 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 1. 🆚 Version Control<br><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 
->> ## 😄 Few Projects
+>> ### 😄 Few Projects
 [![MessManger](https://img.shields.io/badge/-Mess%20Manager-FC5A55?style=flat-square&logo=humman&logoColor=white&link=https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)](https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)
 
 
