@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=humman&logoColor=white&link=https://milon27.web.app/)](https://milon27.web.app/)
+[![about](screenshot.png)](https://milon27.web.app/)
 
 <!-- Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@
 
 Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) and Web(Node Js, React Js, Next Js) Developer - available for remote work.
 
-## 📫  How to reach me
+>> ## 📫  How to reach me
 
 [![fiverr Badge](https://img.shields.io/badge/-milon27-24292E?style=flat-square&logo=fiverr&logoColor=white&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
 [![upwork Badge](https://img.shields.io/badge/-Jahidul-14A800?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~016439d0a1aaceb84d)](https://www.upwork.com/freelancers/~016439d0a1aaceb84d)
@@ -26,41 +26,41 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 [![Gmail Badge](https://img.shields.io/badge/-mdjahidulislammilon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdjahidulislammilon@gmail.com)](mailto:mdjahidulislammilon@gmail.com)
 [![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=humman&logoColor=white&link=https://milon27.web.app/)](https://milon27.web.app/)
 
-## ⚡ I’m currently working on
+>> ## ⚡ I’m currently working on
 
-1. 💻 Web Development(full stack)
+1. 💻 Web Development(full stack) <br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![api](https://img.shields.io/badge/-API%20DEV-black?style=flat-square&logo=api)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-1. 📱 Mobile Development
+1. 📱 Mobile Development<br><br>
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![RN](https://img.shields.io/badge/-React%20Native-E5F2F6?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![RN](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
-1. 💎 Database
+1. 💎 Database<br><br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
-1. ⛅ Clound
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws)
-![CPanel](https://img.shields.io/badge/CPanel-232F3E?style=flat-square&logo=CPanel)
+1. ⛅ Clound<br><br>
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20AWS%20EC2-black?style=flat-square&logo=amazon-aws)
+![CPanel](https://img.shields.io/badge/CPanel-black?style=flat-square&logo=CPanel)
 
-1. 🆚 Version Control
+1. 🆚 Version Control<br><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## 😄 Few Projects
+>> ## 😄 Few Projects
 [![MessManger](https://img.shields.io/badge/-Mess%20Manager-FC5A55?style=flat-square&logo=humman&logoColor=white&link=https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)](https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)
 
 
