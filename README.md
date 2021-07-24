@@ -28,7 +28,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 
 >> ### ⚡ I’m currently working on
 
-1. 💻 Web Development(full stack) <br><br>
+1. Web Development(full stack) <br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
@@ -38,23 +38,23 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-1. 📱 Mobile Development<br><br>
+1. Mobile Development<br><br>
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![RN](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
-1. 💎 Database<br><br>
+1. Database<br><br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
-1. ⛅ Clound<br><br>
+1. Cloud<br><br>
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20AWS%20EC2-black?style=flat-square&logo=amazon-aws)
 ![CPanel](https://img.shields.io/badge/CPanel-black?style=flat-square&logo=CPanel)
 
-1. 🆚 Version Control<br><br>
+1. Version Control<br><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
