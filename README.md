@@ -18,7 +18,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 
 >> ### 📫  How to reach me
 
-[![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=humman&logoColor=white&link=https://milon27.web.app/)](https://milon27.web.app/)
+[![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=humman&logoColor=white&link=https://milon27.ml/)](https://milon27.ml/)
 [![Gmail Badge](https://img.shields.io/badge/-mdjahidulislammilon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdjahidulislammilon@gmail.com)](mailto:mdjahidulislammilon@gmail.com)
 [![fiverr Badge](https://img.shields.io/badge/-milon27-black?style=flat-square&logo=fiverr&logoColor=00FFAA&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
 [![upwork Badge](https://img.shields.io/badge/-Jahidul-14A800?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~016439d0a1aaceb84d)](https://www.upwork.com/freelancers/~016439d0a1aaceb84d)
@@ -31,6 +31,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 >> ### ⚡ I’m currently working on
 
 1. Web Development(full stack) <br><br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
