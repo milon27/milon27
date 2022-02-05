@@ -37,11 +37,14 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 ![Next](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![api](https://img.shields.io/badge/-API%20DEV-black?style=flat-square&logo=api)
+![graphql](https://img.shields.io/badge/-GraphQl-black?style=flat-square&logo=GraphQl)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 1. Mobile Development<br><br>
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![RN](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
@@ -52,12 +55,13 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Prisma 2](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma)
 ![Sequelize](https://img.shields.io/badge/sequelize-black?style=flat-square&logo=sequelize)
-![Mongoose JS](https://img.shields.io/badge/mongoose-black?style=flat-square&logo=mongoose)
+![Mongoose JS](https://img.shields.io/badge/mongoose-black?style=flat-square&logo=mongoosejs)
 
 1. Cloud<br><br>
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20AWS%20EC2-black?style=flat-square&logo=amazon-aws)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-black?style=flat-square&logo=oracle)
 ![CPanel](https://img.shields.io/badge/CPanel-black?style=flat-square&logo=CPanel)
 
 1. Version Control<br><br>
