@@ -18,7 +18,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 
 >> ### 📫  How to reach me
 
-[![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=humman&logoColor=white&link=https://milon27.ml/)](https://milon27.ml/)
+[![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=mega&logoColor=00FFAA&link=https://milon27.com/)](https://milon27.com/)
 [![Gmail Badge](https://img.shields.io/badge/-mdjahidulislammilon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdjahidulislammilon@gmail.com)](mailto:mdjahidulislammilon@gmail.com)
 [![fiverr Badge](https://img.shields.io/badge/-milon27-black?style=flat-square&logo=fiverr&logoColor=00FFAA&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
 [![upwork Badge](https://img.shields.io/badge/-Jahidul-14A800?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~016439d0a1aaceb84d)](https://www.upwork.com/freelancers/~016439d0a1aaceb84d)
