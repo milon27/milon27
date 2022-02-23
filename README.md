@@ -72,8 +72,8 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 
 >> ### 😄 Few Projects
 [![MessManger](https://img.shields.io/badge/-Mess%20Manager-FC5A55?style=flat-square&logo=humman&logoColor=white&link=https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)](https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)
-[![Fuddiz](https://img.shields.io/badge/-Fuddiz-FFC000?style=flat-square&logo=humman&logoColor=white&link=https://milon27.web.app/portfolio/3JlPP6F18sfzPz3nuUs6F7)](https://milon27.web.app/portfolio/3JlPP6F18sfzPz3nuUs6F7)
-[![Brick Factory ERP](https://img.shields.io/badge/-Brick%20Factory%20ERP-5679E0?style=flat-square&logo=humman&logoColor=white&link=https://milon27.web.app/portfolio/4VRCIDqhMqiR5qSIcrnhc3)](https://milon27.web.app/portfolio/4VRCIDqhMqiR5qSIcrnhc3)
+[![Fuddiz](https://img.shields.io/badge/-Fuddiz-FFC000?style=flat-square&logo=humman&logoColor=white&link=https://milon27.com/portfolio/3JlPP6F18sfzPz3nuUs6F7)](https://milon27.com/portfolio/3JlPP6F18sfzPz3nuUs6F7)
+[![Brick Factory ERP](https://img.shields.io/badge/-Brick%20Factory%20ERP-5679E0?style=flat-square&logo=humman&logoColor=white&link=https://milon27.com/portfolio/4VRCIDqhMqiR5qSIcrnhc3)](https://milon27.com/portfolio/4VRCIDqhMqiR5qSIcrnhc3)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=milon27&count_private=true&show_icons=true&include_all_commits=true)
 
