@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-[![about](screenshot.png)](https://milon27.com/)
+[![about](screenshot.png)](https://milon27.com/portfolio)
 
 <!-- Here are some ideas to get you started:
 
