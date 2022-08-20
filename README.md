@@ -75,9 +75,9 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 [![Fuddiz](https://img.shields.io/badge/-Fuddiz-FFC000?style=flat-square&logo=humman&logoColor=white&link=https://milon27.com/portfolio/3JlPP6F18sfzPz3nuUs6F7)](https://milon27.com/portfolio/3JlPP6F18sfzPz3nuUs6F7)
 [![Brick Factory ERP](https://img.shields.io/badge/-Brick%20Factory%20ERP-5679E0?style=flat-square&logo=humman&logoColor=white&link=https://milon27.com/portfolio/4VRCIDqhMqiR5qSIcrnhc3)](https://milon27.com/portfolio/4VRCIDqhMqiR5qSIcrnhc3)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=milon27&count_private=true&show_icons=true&include_all_commits=true)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=milon27&count_private=true&show_icons=true&include_all_commits=true)](https://milon27.com/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milon27&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milon27&layout=compact)](https://milon27.com/)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=milon27.milon27)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=milon27.milon27)](https://milon27.com/)
 
