@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ... -->
 
 
-Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) and Web(Node Js, React Js, Next Js) Developer - available for remote work.
+Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(React Native) and Web(Node Js, React Js, Next Js) Developer - available for remote work.
 
 >> ### 📫  How to reach me
 
@@ -45,8 +45,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 
 1. Mobile Development<br><br>
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![ios](https://img.shields.io/badge/-ios-black?style=flat-square&logo=ios)
 ![RN](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
 1. Database & ORM<br><br>
@@ -58,10 +57,10 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 ![Mongoose JS](https://img.shields.io/badge/mongoose-black?style=flat-square&logo=mongoosejs)
 
 1. Cloud<br><br>
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20AWS%20EC2-black?style=flat-square&logo=amazon-aws)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-black?style=flat-square&logo=oracle)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![CPanel](https://img.shields.io/badge/CPanel-black?style=flat-square&logo=CPanel)
 
 1. Version Control<br><br>
@@ -71,6 +70,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(java+Kotlin+React Native) 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 
 >> ### 😄 Few Projects
+[![Ecom](https://img.shields.io/badge/-Ecommerce%20App-5C8568?style=flat-square&logo=humman&logoColor=white&link=https://ecom.m27lab.com/)](https://ecom.m27lab.com/)
 [![MessManger](https://img.shields.io/badge/-Mess%20Manager-FC5A55?style=flat-square&logo=humman&logoColor=white&link=https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)](https://play.google.com/store/apps/details?id=com.m27lab.messmanager.app)
 [![Fuddiz](https://img.shields.io/badge/-Fuddiz-FFC000?style=flat-square&logo=humman&logoColor=white&link=https://milon27.com/portfolio/3JlPP6F18sfzPz3nuUs6F7)](https://milon27.com/portfolio/3JlPP6F18sfzPz3nuUs6F7)
 [![Brick Factory ERP](https://img.shields.io/badge/-Brick%20Factory%20ERP-5679E0?style=flat-square&logo=humman&logoColor=white&link=https://milon27.com/portfolio/4VRCIDqhMqiR5qSIcrnhc3)](https://milon27.com/portfolio/4VRCIDqhMqiR5qSIcrnhc3)
