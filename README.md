@@ -77,7 +77,7 @@ Hi,This is ✨ Md Jahidul Islam Milon✨, I am Mobile(React Native) and Web(Node
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=milon27&count_private=true&show_icons=true&include_all_commits=true)](https://milon27.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milon27)](https://milon27.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milon27&hide=css,scss,html,Objective-C,Java,EJS,Ruby,PHP,Starlark&layout=compact)](https://milon27.com/)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=milon27.milon27)](https://milon27.com/)
 
