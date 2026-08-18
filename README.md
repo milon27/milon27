@@ -18,14 +18,11 @@ I am Senior Full-Stack Software Engineer with 8+ years building and scaling web 
 
 >> ### 📫  How to reach me
 
-[![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=mega&logoColor=00FFAA&link=https://milon27.com/)](https://milon27.com/)
 [![Gmail Badge](https://img.shields.io/badge/-immilon27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:immilon27@gmail.com)](mailto:immilon27@gmail.com)
 [![fiverr Badge](https://img.shields.io/badge/-milon27-black?style=flat-square&logo=fiverr&logoColor=00FFAA&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
 [![upwork Badge](https://img.shields.io/badge/-Jahidul-14A800?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~016439d0a1aaceb84d)](https://www.upwork.com/freelancers/~016439d0a1aaceb84d)
 [![Linkedin Badge](https://img.shields.io/badge/-milon27-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milon27/)](https://www.linkedin.com/in/md-jahidul-islam-milon/)
-[![facebook Badge](https://img.shields.io/badge/-im.milon27-0F92F3?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/im.milon27/)](https://www.facebook.com/im.milon27/)
-[![Youtube Badge](https://img.shields.io/badge/-m27lab-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/milon27)](https://www.youtube.com/c/milon27)
-
+[![portfolio Badge](https://img.shields.io/badge/-portfolio:milon27-33334E?style=flat-square&logo=mega&logoColor=00FFAA&link=https://milon27.com/)](https://milon27.com/)
 
 
 >> ### ⚡ I’m currently working on
