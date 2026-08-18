@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-[![about](screenshot.png)](https://milon27.com/portfolio)
+I am Senior Full-Stack Software Engineer with 8+ years building and scaling web and mobile products from idea to production. I built a SaaS app to 100K+ downloads and shipped production software for startups and international teams. I enjoy owning problems end to end and turning business needs into simple, reliable software.
 
 <!-- Here are some ideas to get you started:
 
