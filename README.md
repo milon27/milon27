@@ -16,7 +16,7 @@ I am Senior Full-Stack Software Engineer with 8+ years building and scaling web 
 
 - available for remote work.
 
->> ### 📫  How to reach me
+>> ### 📫  Lets work together
 
 [![Gmail Badge](https://img.shields.io/badge/-immilon27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:immilon27@gmail.com)](mailto:immilon27@gmail.com)
 [![fiverr Badge](https://img.shields.io/badge/-milon27-black?style=flat-square&logo=fiverr&logoColor=00FFAA&link=https://www.fiverr.com/milon27)](https://www.fiverr.com/milon27/)
